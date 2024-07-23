@@ -321,3 +321,7 @@ b {
 #section5 p {
   color: black;
 }
+/* ---------> Section6 <---------- */
+#photo div img {
+  padding: 5px;
+}
